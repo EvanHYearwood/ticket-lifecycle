@@ -8,6 +8,16 @@
 
 <p>This phase demonstrates the complete lifecycle of a ticket within osTicket, from the moment it is created to its resolution. The focus is on showing how tickets are managed, prioritized, and resolved efficiently using osTicket’s help desk system.</p>
 
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Internet Information Services (IIS)
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
+
 <ul>
   <li><strong>Ticket Lifecycle Stages: From Creation to Completion</strong>
     <p>We will walk through the different stages a ticket goes through once it is created until it is resolved and closed.</p>
