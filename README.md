@@ -2,11 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h2>Phase 3: Demonstration</h2>
-
-<h3>osTicket - Ticket Lifecycle: Intake Through Resolution</h3>
-
-<p>This phase demonstrates the complete lifecycle of a ticket within osTicket, from the moment it is created to its resolution. The focus is on showing how tickets are managed, prioritized, and resolved efficiently using osTicket’s help desk system.</p>
+<h1>Phase 3: Demonstration</h1>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -17,6 +13,10 @@
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+
+<h3>osTicket - Ticket Lifecycle: Intake Through Resolution</h3>
+
+<p>This phase demonstrates the complete lifecycle of a ticket within osTicket, from the moment it is created to its resolution. The focus is on showing how tickets are managed, prioritized, and resolved efficiently using osTicket’s help desk system.</p>
 
 <ul>
   <li><strong>Ticket Lifecycle Stages: From Creation to Completion</strong>
