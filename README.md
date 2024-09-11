@@ -6,7 +6,7 @@
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com/watch?v=LfigAOzRHFs)
+- ### [YouTube: osTicket Tutorial (Phase 3/3) Demonstration](https://www.youtube.com/watch?v=LfigAOzRHFs)
 
   
 <h2>Environments and Technologies Used</h2>
