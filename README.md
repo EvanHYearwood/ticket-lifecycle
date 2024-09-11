@@ -4,6 +4,11 @@
 
 <h1>Phase 3: Demonstration</h1>
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com/watch?v=LfigAOzRHFs)
+
+  
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
