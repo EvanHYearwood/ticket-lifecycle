@@ -2,11 +2,11 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h2>Evan H. Yearwood - Portfolio Project</h2>
-
 <h1>Phase 3: Demonstration</h1>
 
 <p>In Phase 3 of this osTicket tutorial, we’ll demonstrate the full lifecycle of a ticket, from creation to resolution. You’ll see how tickets are managed, prioritized using SLAs, and escalated or resolved efficiently. This phase covers intake, assignment, triaging, and closing tickets within osTicket.</p>
+
+<h2>Evan H. Yearwood - Portfolio Project</h2>
 
 <h2>Video Demonstration</h2>
 
